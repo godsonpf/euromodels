@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"模特库.html",
-  "generationDate":new Date(1525689059667.03),
+  "generationDate":new Date(1525689292072.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

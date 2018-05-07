@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"公司文化.html",
-  "generationDate":new Date(1525689061277.12),
+  "generationDate":new Date(1525689293604.45),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

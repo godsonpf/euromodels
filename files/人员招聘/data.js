@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"人员招聘.html",
-  "generationDate":new Date(1525689062974.22),
+  "generationDate":new Date(1525689295335.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
