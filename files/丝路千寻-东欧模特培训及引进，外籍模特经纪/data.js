@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"丝路千寻-东欧模特培训及引进，外籍模特经纪.html",
-  "generationDate":new Date(1525678700407.89),
+  "generationDate":new Date(1525681092266.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

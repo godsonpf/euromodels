@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"安妮丽娜：因为小吃，我喜欢中国.html",
-  "generationDate":new Date(1525678703119.04),
+  "generationDate":new Date(1525681095031.58),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
