@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"服务理念.html",
-  "generationDate":new Date(1525681094640.56),
+  "generationDate":new Date(1525688864334.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

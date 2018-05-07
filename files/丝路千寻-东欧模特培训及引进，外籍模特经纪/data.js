@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"丝路千寻-东欧模特培训及引进，外籍模特经纪.html",
-  "generationDate":new Date(1525681092266.42),
+  "generationDate":new Date(1525688861481.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -530,6 +530,21 @@
               "height":10}},
           "adaptiveStyles":{
 },
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 模特库",
+                      "target":{
+                        "targetType":"page",
+                        "url":"模特库.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "scrollbars":"none",
           "fitToContent":true,
           "propagate":false,
