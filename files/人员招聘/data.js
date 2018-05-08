@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"人员招聘.html",
-  "generationDate":new Date(1525749201406.92),
+  "generationDate":new Date(1525750299659.32),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -339,7 +339,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -358,7 +358,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},

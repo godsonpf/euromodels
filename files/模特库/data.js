@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"模特库.html",
-  "generationDate":new Date(1525749189127.22),
+  "generationDate":new Date(1525750295962.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5069,7 +5069,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -5088,7 +5088,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"公司文化.html",
-  "generationDate":new Date(1525749192378.41),
+  "generationDate":new Date(1525750297635.2),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -667,7 +667,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -686,7 +686,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"安妮丽娜：因为小吃，我喜欢中国.html",
-  "generationDate":new Date(1525749195129.56),
+  "generationDate":new Date(1525750298543.26),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -330,7 +330,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -349,7 +349,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},

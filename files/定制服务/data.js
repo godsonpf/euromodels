@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"定制服务.html",
-  "generationDate":new Date(1525749193630.48),
+  "generationDate":new Date(1525750298101.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -278,7 +278,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -297,7 +297,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},

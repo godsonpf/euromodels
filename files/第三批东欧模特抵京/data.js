@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"第三批东欧模特抵京.html",
-  "generationDate":new Date(1525749199454.81),
+  "generationDate":new Date(1525750299423.31),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -315,7 +315,7 @@
             "style":{
               "fill":{
                 "fillType":"solid",
-                "color":0x33000000},
+                "color":0xFF4D4D4F},
               "size":{
                 "width":1365,
                 "height":100},
@@ -334,7 +334,7 @@
                 "style":{
                   "fill":{
                     "fillType":"solid",
-                    "color":0x33000000},
+                    "color":0xFF4D4D4F},
                   "size":{
                     "width":1365,
                     "height":100},
