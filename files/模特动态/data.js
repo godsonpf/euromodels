@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"模特动态.html",
-  "generationDate":new Date(1525750299226.29),
+  "generationDate":new Date(1525778157449.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u127.png"}},
+                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u135.png"}},
 {
                   "id":"da99fc2c15544fd5b617059197327d36",
                   "label":"",
@@ -164,7 +164,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u131.png"}}]}]},
+                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u139.png"}}]}]},
 {
           "id":"3e7102f10c56476ea2080674a553e259",
           "label":"",
@@ -530,7 +530,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u65.png"}},
+                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u73.png"}},
 {
                   "id":"b13e0990fdfb4a2b8da2d86be4a9c693",
                   "label":"",
@@ -1496,7 +1496,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/头部遮罩_u20.png"}},
+              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/头部遮罩_u28.png"}},
 {
             "id":"79068d9ae58f4c3192680e3f0e28ecbb",
             "label":"顶部菜单",
@@ -1720,7 +1720,7 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u28_line.png"}}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u36_line.png"}}]}]},
 {
                     "id":"a65db00bb5ff49ba8f32112ff89b207e",
                     "label":"模特库按钮",
@@ -1922,7 +1922,7 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u34_line.png"}}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u42_line.png"}}]}]},
 {
                     "id":"548cb0aab7f64327a07d75bc2b0b1356",
                     "label":"视频按钮",
@@ -2124,7 +2124,7 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u40_line.png"}}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u48_line.png"}}]}]},
 {
                     "id":"a91b2c57aa5e4a36b3f14cc13f33210a",
                     "label":"日程按钮",
@@ -2326,7 +2326,7 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u28_line.png"}}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u36_line.png"}}]}]},
 {
                     "id":"af3249e82f63401a8717f006dfa19360",
                     "label":"定制服务",
@@ -2528,7 +2528,7 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u40_line.png"}}]}]}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u48_line.png"}}]}]}]}]},
 {
             "id":"8700267c6f1343b7a211cc25494ff284",
             "label":"顶部",
@@ -2591,7 +2591,7 @@
                         "linkType":"current"}]}]}},
             "tabbable":true,
             "images":{
-              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u54.png"}}]}},
+              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u62.png"}}]}},
     "fe2b4986fdef41cba8d905cdf795056c":{
       "packageId":"fe2b4986fdef41cba8d905cdf795056c",
       "type":"Axure:Master",
@@ -2675,7 +2675,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u135.png"}},
+                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u143.png"}},
 {
                     "id":"c669840151734e5a9c4b28eefa575ec5",
                     "label":"",
@@ -2722,7 +2722,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u137.png"}},
+                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u145.png"}},
 {
                     "id":"8502773cd6484b6889404036462542f0",
                     "label":"",
@@ -3490,7 +3490,7 @@
                 "adaptiveStyles":{
 }}],
             "images":{
-              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u170.png"}},
+              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u178.png"}},
 {
             "id":"8df1403e74084452b7acc232b7a9506e",
             "label":"",
