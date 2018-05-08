@@ -43,6 +43,10 @@
             "type":"Wireframe",
             "url":"服务理念.html"},
 {
+            "pageName":"定制服务",
+            "type":"Wireframe",
+            "url":"定制服务.html"},
+{
             "pageName":"模特故事",
             "type":"Wireframe",
             "url":"模特故事.html",

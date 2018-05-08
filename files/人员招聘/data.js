@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"人员招聘.html",
-  "generationDate":new Date(1525689295335.55),
+  "generationDate":new Date(1525749201406.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -94,7 +94,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/作品库/作品库首页作品集封面_u91.png"}},
+                    "normal~":"images/作品库/作品库首页作品集封面_u99.png"}},
 {
                   "id":"a24dd3253af74909bd819b560a71ba88",
                   "label":"",
@@ -166,7 +166,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/第二次东欧女模大集结盛大举行/u38.png"}},
+                    "normal~":"images/第二次东欧女模大集结盛大举行/u46.png"}},
 {
                   "id":"7b39665eb2b840018172d2a6e05bac2a",
                   "label":"",
@@ -262,7 +262,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u57.png"}}]}]},
+                    "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u65.png"}}]}]},
 {
           "id":"e95aa74656f44802a3c3ecacd7f33670",
           "label":"",
@@ -377,10 +377,10 @@
             "visible":true,
             "style":{
               "location":{
-                "x":825,
+                "x":670,
                 "y":0},
               "size":{
-                "width":540,
+                "width":695,
                 "height":100}},
             "adaptiveStyles":{
 },
@@ -1198,7 +1198,209 @@
                             "images":{
                               "start~":"resources/images/transparent.gif",
                               "end~":"resources/images/transparent.gif",
-                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u28_line.png"}}]}]}]}]},
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u28_line.png"}}]}]},
+{
+                    "id":"af3249e82f63401a8717f006dfa19360",
+                    "label":"定制服务",
+                    "parentDynamicPanel":"79068d9ae58f4c3192680e3f0e28ecbb",
+                    "type":"dynamicPanel",
+                    "styleType":"dynamicPanel",
+                    "visible":true,
+                    "style":{
+                      "location":{
+                        "x":568,
+                        "y":26},
+                      "size":{
+                        "width":100,
+                        "height":50}},
+                    "adaptiveStyles":{
+},
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 定制服务",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"定制服务.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]},
+                      "onMouseOver":{
+                        "description":"OnMouseOver",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"setPanelState",
+                                "description":"设置 定制服务 to 浮动后",
+                                "panelsToStates":[{
+                                    "panelPath":["af3249e82f63401a8717f006dfa19360"],
+                                    "stateInfo":{
+                                      "setStateType":"diagram",
+                                      "stateNumber":2,
+                                      "stateValue":{
+                                        "exprType":"stringLiteral",
+                                        "value":"1",
+                                        "stos":[]},
+                                      "loop":false,
+                                      "showWhenSet":false,
+                                      "options":{
+                                        "compress":false}}}]}]}]},
+                      "onMouseOut":{
+                        "description":"OnMouseOut",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"setPanelState",
+                                "description":"设置 定制服务 to 浮动前",
+                                "panelsToStates":[{
+                                    "panelPath":["af3249e82f63401a8717f006dfa19360"],
+                                    "stateInfo":{
+                                      "setStateType":"diagram",
+                                      "stateNumber":1,
+                                      "stateValue":{
+                                        "exprType":"stringLiteral",
+                                        "value":"1",
+                                        "stos":[]},
+                                      "loop":false,
+                                      "showWhenSet":false,
+                                      "options":{
+                                        "compress":false}}}]}]}]}},
+                    "tabbable":true,
+                    "scrollbars":"none",
+                    "fitToContent":false,
+                    "propagate":false,
+                    "diagrams":[{
+                        "id":"0bc6bb629f214b18a7ed571960732556",
+                        "label":"浮动前",
+                        "type":"Axure:PanelDiagram",
+                        "objects":[{
+                            "id":"e62c22a4f34e4c4da0d8c5a7418302a6",
+                            "label":"",
+                            "parentDynamicPanel":"af3249e82f63401a8717f006dfa19360",
+                            "type":"buttonShape",
+                            "styleType":"h1",
+                            "visible":true,
+                            "style":{
+                              "fontSize":"26px",
+                              "horizontalAlignment":"center",
+                              "foreGroundFill":{
+                                "fillType":"solid",
+                                "color":0xFFFFFFFF,
+                                "opacity":1},
+                              "location":{
+                                "x":-2,
+                                "y":9},
+                              "size":{
+                                "width":105,
+                                "height":32}},
+                            "adaptiveStyles":{
+},
+                            "objects":[{
+                                "id":"ea5074b7b7e749019918f074c075a5d6",
+                                "label":"",
+                                "isContained":true,
+                                "parentDynamicPanel":"af3249e82f63401a8717f006dfa19360",
+                                "type":"richTextPanel",
+                                "styleType":"paragraph",
+                                "visible":true,
+                                "style":{
+                                  "fontSize":"26px",
+                                  "horizontalAlignment":"center",
+                                  "foreGroundFill":{
+                                    "fillType":"solid",
+                                    "color":0xFFFFFFFF,
+                                    "opacity":1},
+                                  "location":{
+                                    "x":-2,
+                                    "y":9},
+                                  "size":{
+                                    "width":105,
+                                    "height":32}},
+                                "adaptiveStyles":{
+}}],
+                            "images":{
+                              "normal~":"resources/images/transparent.gif"}}]},
+{
+                        "id":"25e70ab506a745b1afbc17a307e2442a",
+                        "label":"浮动后",
+                        "type":"Axure:PanelDiagram",
+                        "objects":[{
+                            "id":"4187ebcb4e644a2f8288a851a3265584",
+                            "label":"",
+                            "parentDynamicPanel":"af3249e82f63401a8717f006dfa19360",
+                            "type":"buttonShape",
+                            "styleType":"h1",
+                            "visible":true,
+                            "style":{
+                              "fontSize":"26px",
+                              "horizontalAlignment":"center",
+                              "foreGroundFill":{
+                                "fillType":"solid",
+                                "color":0xFFFF6600,
+                                "opacity":1},
+                              "location":{
+                                "x":-2,
+                                "y":9},
+                              "size":{
+                                "width":105,
+                                "height":32}},
+                            "adaptiveStyles":{
+},
+                            "objects":[{
+                                "id":"1c8a91e84c74487fafe7dd901138ba18",
+                                "label":"",
+                                "isContained":true,
+                                "parentDynamicPanel":"af3249e82f63401a8717f006dfa19360",
+                                "type":"richTextPanel",
+                                "styleType":"paragraph",
+                                "visible":true,
+                                "style":{
+                                  "fontSize":"26px",
+                                  "horizontalAlignment":"center",
+                                  "foreGroundFill":{
+                                    "fillType":"solid",
+                                    "color":0xFFFF6600,
+                                    "opacity":1},
+                                  "location":{
+                                    "x":-2,
+                                    "y":9},
+                                  "size":{
+                                    "width":105,
+                                    "height":32}},
+                                "adaptiveStyles":{
+}}],
+                            "images":{
+                              "normal~":"resources/images/transparent.gif"}},
+{
+                            "id":"ccabc0fc188d455cb708970aa134ae5c",
+                            "label":"",
+                            "parentDynamicPanel":"af3249e82f63401a8717f006dfa19360",
+                            "type":"horizontalLine",
+                            "styleType":"horizontalLine",
+                            "visible":true,
+                            "style":{
+                              "location":{
+                                "x":11,
+                                "y":0},
+                              "size":{
+                                "width":79,
+                                "height":10},
+                              "borderWidth":"2",
+                              "borderFill":{
+                                "fillType":"solid",
+                                "color":0xFFFF6600}},
+                            "adaptiveStyles":{
+},
+                            "images":{
+                              "start~":"resources/images/transparent.gif",
+                              "end~":"resources/images/transparent.gif",
+                              "line~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u40_line.png"}}]}]}]}]},
 {
             "id":"8700267c6f1343b7a211cc25494ff284",
             "label":"顶部",
@@ -1213,7 +1415,55 @@
                 "width":20,
                 "height":40}},
             "adaptiveStyles":{
-}}]}},
+}},
+{
+            "id":"f1c206c1f04f49f180c5bc2e1b8fbd15",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":40,
+                "y":15},
+              "size":{
+                "width":72,
+                "height":70}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"4f789f1743134e57b5c00bdbde4162b4",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":40,
+                    "y":15},
+                  "size":{
+                    "width":72,
+                    "height":70}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 丝路千寻-东欧模特培训及引进，外籍模特经纪",
+                        "target":{
+                          "targetType":"page",
+                          "url":"丝路千寻-东欧模特培训及引进，外籍模特经纪.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u54.png"}}]}},
     "fe2b4986fdef41cba8d905cdf795056c":{
       "packageId":"fe2b4986fdef41cba8d905cdf795056c",
       "type":"Axure:Master",
@@ -1247,7 +1497,7 @@
             "style":{
               "size":{
                 "width":1365,
-                "height":370}},
+                "height":410}},
             "adaptiveStyles":{
 },
             "scrollbars":"none",
@@ -1267,7 +1517,7 @@
                     "style":{
                       "fill":{
                         "fillType":"solid",
-                        "color":0x332F2B27},
+                        "color":0xFF4D4D4F},
                       "size":{
                         "width":1365,
                         "height":370},
@@ -1287,7 +1537,7 @@
                         "style":{
                           "fill":{
                             "fillType":"solid",
-                            "color":0x332F2B27},
+                            "color":0xFF4D4D4F},
                           "size":{
                             "width":1365,
                             "height":370},
@@ -1297,7 +1547,97 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u127.png"}}]}]},
+                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u135.png"}},
+{
+                    "id":"c669840151734e5a9c4b28eefa575ec5",
+                    "label":"",
+                    "parentDynamicPanel":"b7785e9d2e6a49aca406f53d6f924851",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFF000000},
+                      "location":{
+                        "x":0,
+                        "y":367},
+                      "size":{
+                        "width":1365,
+                        "height":40},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFF}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"0a82e803e91d425aaee2ef74882c21f0",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"b7785e9d2e6a49aca406f53d6f924851",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fill":{
+                            "fillType":"solid",
+                            "color":0xFF000000},
+                          "location":{
+                            "x":0,
+                            "y":367},
+                          "size":{
+                            "width":1365,
+                            "height":40},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFF}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u137.png"}},
+{
+                    "id":"8502773cd6484b6889404036462542f0",
+                    "label":"",
+                    "parentDynamicPanel":"b7785e9d2e6a49aca406f53d6f924851",
+                    "type":"buttonShape",
+                    "styleType":"paragraph",
+                    "visible":true,
+                    "style":{
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFFFFFFFF,
+                        "opacity":1},
+                      "location":{
+                        "x":20,
+                        "y":379},
+                      "size":{
+                        "width":118,
+                        "height":16}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"751ee42c402a4ba6b1c815ddfbb5ffeb",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"b7785e9d2e6a49aca406f53d6f924851",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "foreGroundFill":{
+                            "fillType":"solid",
+                            "color":0xFFFFFFFF,
+                            "opacity":1},
+                          "location":{
+                            "x":20,
+                            "y":379},
+                          "size":{
+                            "width":118,
+                            "height":16}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"resources/images/transparent.gif"}}]}]},
 {
             "id":"7f2a2ba172f54acf9bf1d6d0b430e30e",
             "label":"",
@@ -1306,18 +1646,18 @@
             "visible":true,
             "style":{
               "fontName":"'微软雅黑 Regular', '微软雅黑'",
-              "fontSize":"20px",
+              "fontSize":"15px",
               "fontWeight":"400",
               "foreGroundFill":{
                 "fillType":"solid",
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":57,
-                "y":40},
+                "x":63,
+                "y":43},
               "size":{
-                "width":61,
-                "height":27}},
+                "width":46,
+                "height":20}},
             "adaptiveStyles":{
 },
             "objects":[{
@@ -1329,18 +1669,18 @@
                 "visible":true,
                 "style":{
                   "fontName":"'微软雅黑 Regular', '微软雅黑'",
-                  "fontSize":"20px",
+                  "fontSize":"15px",
                   "fontWeight":"400",
                   "foreGroundFill":{
                     "fillType":"solid",
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":57,
-                    "y":40},
+                    "x":63,
+                    "y":43},
                   "size":{
-                    "width":61,
-                    "height":27}},
+                    "width":46,
+                    "height":20}},
                 "adaptiveStyles":{
 }}],
             "images":{
@@ -1360,8 +1700,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":57,
-                "y":90},
+                "x":300,
+                "y":43},
               "size":{
                 "width":41,
                 "height":27}},
@@ -1383,8 +1723,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":57,
-                    "y":90},
+                    "x":300,
+                    "y":43},
                   "size":{
                     "width":41,
                     "height":27}},
@@ -1406,8 +1746,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":80,
-                "y":120},
+                "x":323,
+                "y":73},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1428,8 +1768,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":80,
-                    "y":120},
+                    "x":323,
+                    "y":73},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1451,8 +1791,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":80,
-                "y":143},
+                "x":323,
+                "y":95},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1473,8 +1813,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":80,
-                    "y":143},
+                    "x":323,
+                    "y":95},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1497,8 +1837,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":57,
-                "y":187},
+                "x":300,
+                "y":139},
               "size":{
                 "width":81,
                 "height":27}},
@@ -1520,8 +1860,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":57,
-                    "y":187},
+                    "x":300,
+                    "y":139},
                   "size":{
                     "width":81,
                     "height":27}},
@@ -1543,8 +1883,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":80,
-                "y":219},
+                "x":323,
+                "y":171},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1565,8 +1905,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":80,
-                    "y":219},
+                    "x":323,
+                    "y":171},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1588,8 +1928,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":80,
-                "y":242},
+                "x":323,
+                "y":195},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1610,8 +1950,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":80,
-                    "y":242},
+                    "x":323,
+                    "y":195},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1633,8 +1973,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":80,
-                "y":267},
+                "x":323,
+                "y":219},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1655,8 +1995,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":80,
-                    "y":267},
+                    "x":323,
+                    "y":219},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1678,8 +2018,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":79,
-                "y":292},
+                "x":322,
+                "y":245},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1700,8 +2040,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":79,
-                    "y":292},
+                    "x":322,
+                    "y":245},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1723,8 +2063,8 @@
                 "color":0xFFFFFFFF,
                 "opacity":1},
               "location":{
-                "x":79,
-                "y":319},
+                "x":322,
+                "y":271},
               "size":{
                 "width":100,
                 "height":21}},
@@ -1745,8 +2085,8 @@
                     "color":0xFFFFFFFF,
                     "opacity":1},
                   "location":{
-                    "x":79,
-                    "y":319},
+                    "x":322,
+                    "y":271},
                   "size":{
                     "width":100,
                     "height":21}},
@@ -1762,8 +2102,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":219},
+                "x":323,
+                "y":171},
               "size":{
                 "width":70,
                 "height":21}},
@@ -1777,8 +2117,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":244},
+                "x":323,
+                "y":197},
               "size":{
                 "width":70,
                 "height":21}},
@@ -1807,8 +2147,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":270},
+                "x":323,
+                "y":223},
               "size":{
                 "width":70,
                 "height":21}},
@@ -1837,8 +2177,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":293},
+                "x":323,
+                "y":245},
               "size":{
                 "width":70,
                 "height":21}},
@@ -1867,8 +2207,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":320},
+                "x":323,
+                "y":273},
               "size":{
                 "width":70,
                 "height":21}},
@@ -1897,8 +2237,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":120},
+                "x":323,
+                "y":73},
               "size":{
                 "width":80,
                 "height":21}},
@@ -1927,8 +2267,8 @@
             "visible":true,
             "style":{
               "location":{
-                "x":80,
-                "y":147},
+                "x":323,
+                "y":99},
               "size":{
                 "width":80,
                 "height":21}},
@@ -1948,7 +2288,208 @@
                           "url":"第三批东欧模特抵京.html",
                           "includeVariables":true},
                         "linkType":"current"}]}]}},
-            "tabbable":true}]}}},
+            "tabbable":true},
+{
+            "id":"631d59ab359c4e19b61bb8ab5135050a",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":63,
+                "y":94},
+              "size":{
+                "width":172,
+                "height":139}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"3cd1079564e7479ba3ca7ad521e4fb9e",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":63,
+                    "y":94},
+                  "size":{
+                    "width":172,
+                    "height":139}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"6df11eb3a2634e2c9669d47b228cc051",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "location":{
+                "x":63,
+                "y":219},
+              "size":{
+                "width":104,
+                "height":104}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a521582e6661409ebcddb118c2428e69",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "location":{
+                    "x":63,
+                    "y":219},
+                  "size":{
+                    "width":104,
+                    "height":104}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/丝路千寻-东欧模特培训及引进，外籍模特经纪/u170.png"}},
+{
+            "id":"8df1403e74084452b7acc232b7a9506e",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"h2",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Bold', '微软雅黑'",
+              "fontSize":"13px",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":1120,
+                "y":47},
+              "size":{
+                "width":53,
+                "height":19}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"562c23991329421a80929a49d89d9b9a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                  "fontSize":"13px",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":1120,
+                    "y":47},
+                  "size":{
+                    "width":53,
+                    "height":19}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"7bc904cb9b374cd6b4e8e5dad6f6becb",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFC5C7C8,
+                "opacity":1},
+              "location":{
+                "x":1130,
+                "y":94},
+              "size":{
+                "width":90,
+                "height":176}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"933bd17691c6433cafcc046cdec0e9e8",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFC5C7C8,
+                    "opacity":1},
+                  "location":{
+                    "x":1130,
+                    "y":94},
+                  "size":{
+                    "width":90,
+                    "height":176}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"3d3e2c302dfa4fc3be51d77f42f71c55",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFC5C7C8,
+                "opacity":1},
+              "location":{
+                "x":1230,
+                "y":94},
+              "size":{
+                "width":90,
+                "height":176}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"2aed34745a4d4f08b84473b0cb39c147",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFC5C7C8,
+                    "opacity":1},
+                  "location":{
+                    "x":1230,
+                    "y":94},
+                  "size":{
+                    "width":90,
+                    "height":176}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
   "objectPaths":{
     "94a01191b77c4e6d871bf75a777f9152":{
       "scriptId":"u0",
@@ -2006,91 +2547,135 @@
         "scriptId":"u26"},
       "cb93506577044cef86f3d5ac6e92cd78":{
         "scriptId":"u27"},
+      "af3249e82f63401a8717f006dfa19360":{
+        "scriptId":"u28"},
+      "e62c22a4f34e4c4da0d8c5a7418302a6":{
+        "scriptId":"u29"},
+      "ea5074b7b7e749019918f074c075a5d6":{
+        "scriptId":"u30"},
+      "4187ebcb4e644a2f8288a851a3265584":{
+        "scriptId":"u31"},
+      "1c8a91e84c74487fafe7dd901138ba18":{
+        "scriptId":"u32"},
+      "ccabc0fc188d455cb708970aa134ae5c":{
+        "scriptId":"u33"},
       "8700267c6f1343b7a211cc25494ff284":{
-        "scriptId":"u28"}},
+        "scriptId":"u34"},
+      "f1c206c1f04f49f180c5bc2e1b8fbd15":{
+        "scriptId":"u35"},
+      "4f789f1743134e57b5c00bdbde4162b4":{
+        "scriptId":"u36"}},
     "de9ebc33db064956bc2ffb7291fd764b":{
-      "scriptId":"u29"},
-    "cb28a7deda1f4b5399c3d7d04478b8ef":{
-      "scriptId":"u30"},
-    "7da91e38e15548068eb0c392e4d9d348":{
-      "scriptId":"u31"},
-    "a24dd3253af74909bd819b560a71ba88":{
-      "scriptId":"u32"},
-    "a9d7ae5dc21f4e7594ec87b25aa48dd2":{
-      "scriptId":"u33"},
-    "f5009c223f3e47acba18c787afc0382f":{
-      "scriptId":"u34"},
-    "61a7946bc6a94f7cbcfd802c8f4a0add":{
-      "scriptId":"u35"},
-    "7b39665eb2b840018172d2a6e05bac2a":{
-      "scriptId":"u36"},
-    "31f886e28ac14f8a800737da340bdfe7":{
       "scriptId":"u37"},
-    "2279f1a9ef374c5c858bb13509790e1e":{
+    "cb28a7deda1f4b5399c3d7d04478b8ef":{
       "scriptId":"u38"},
-    "725ead6a8dc5471cb52192edecd028fe":{
+    "7da91e38e15548068eb0c392e4d9d348":{
       "scriptId":"u39"},
+    "a24dd3253af74909bd819b560a71ba88":{
+      "scriptId":"u40"},
+    "a9d7ae5dc21f4e7594ec87b25aa48dd2":{
+      "scriptId":"u41"},
+    "f5009c223f3e47acba18c787afc0382f":{
+      "scriptId":"u42"},
+    "61a7946bc6a94f7cbcfd802c8f4a0add":{
+      "scriptId":"u43"},
+    "7b39665eb2b840018172d2a6e05bac2a":{
+      "scriptId":"u44"},
+    "31f886e28ac14f8a800737da340bdfe7":{
+      "scriptId":"u45"},
+    "2279f1a9ef374c5c858bb13509790e1e":{
+      "scriptId":"u46"},
+    "725ead6a8dc5471cb52192edecd028fe":{
+      "scriptId":"u47"},
     "e95aa74656f44802a3c3ecacd7f33670":{
-      "scriptId":"u40",
+      "scriptId":"u48",
       "b7785e9d2e6a49aca406f53d6f924851":{
-        "scriptId":"u41"},
-      "b1341f40113f419e9af2752826f0c534":{
-        "scriptId":"u42"},
-      "d029cb6546ab4e8cae770216ad9d6263":{
-        "scriptId":"u43"},
-      "7f2a2ba172f54acf9bf1d6d0b430e30e":{
-        "scriptId":"u44"},
-      "3eadbca54f3d4537aff64fb6b5978c57":{
-        "scriptId":"u45"},
-      "62fd41699c954d0fb612cef060b46ef4":{
-        "scriptId":"u46"},
-      "fa13ba85e89845ffbfb32f73dd892ca4":{
-        "scriptId":"u47"},
-      "df4232565b4a46b9b508029e996451f3":{
-        "scriptId":"u48"},
-      "4b3fdcc376c84d7a9f9200149b3e626f":{
         "scriptId":"u49"},
-      "5d3297c8ffea4c94a74ca46571b1537f":{
+      "b1341f40113f419e9af2752826f0c534":{
         "scriptId":"u50"},
-      "d5e8078e3d104c93ad62e36ae79b5874":{
+      "d029cb6546ab4e8cae770216ad9d6263":{
         "scriptId":"u51"},
-      "e8a621d6f359406bad01dc9733916d37":{
+      "c669840151734e5a9c4b28eefa575ec5":{
         "scriptId":"u52"},
-      "6a70f1d77306400d9dd317b2626bbb0d":{
+      "0a82e803e91d425aaee2ef74882c21f0":{
         "scriptId":"u53"},
-      "870501b4f6134f73a637925d66fdb0e2":{
+      "8502773cd6484b6889404036462542f0":{
         "scriptId":"u54"},
-      "bce01167942740019607018f9eb19491":{
+      "751ee42c402a4ba6b1c815ddfbb5ffeb":{
         "scriptId":"u55"},
-      "ebe42f958c3d4fb38496f21ddc2f3c0a":{
+      "7f2a2ba172f54acf9bf1d6d0b430e30e":{
         "scriptId":"u56"},
-      "a4324f8c878743c8b8555c41adf6793d":{
+      "3eadbca54f3d4537aff64fb6b5978c57":{
         "scriptId":"u57"},
-      "db3d9cee97c747ba8521af9b2cc0e0ec":{
+      "62fd41699c954d0fb612cef060b46ef4":{
         "scriptId":"u58"},
-      "b091ec9335f049f0a8be4ec82d3ca2ec":{
+      "fa13ba85e89845ffbfb32f73dd892ca4":{
         "scriptId":"u59"},
-      "c0586ca2bd784cf2b58489b4a7353d4d":{
+      "df4232565b4a46b9b508029e996451f3":{
         "scriptId":"u60"},
-      "c23aac14db4d4a529f24af0a1025ede7":{
+      "4b3fdcc376c84d7a9f9200149b3e626f":{
         "scriptId":"u61"},
-      "d48c2b42fec34ca68fe0cf688d2554b0":{
+      "5d3297c8ffea4c94a74ca46571b1537f":{
         "scriptId":"u62"},
-      "0d68a742589d415a9e049b503e0a4b0f":{
+      "d5e8078e3d104c93ad62e36ae79b5874":{
         "scriptId":"u63"},
-      "4acfbe03aff74eb498e6b381fae17210":{
+      "e8a621d6f359406bad01dc9733916d37":{
         "scriptId":"u64"},
-      "84c6cc5f56f24bca99a758e16de8d13c":{
+      "6a70f1d77306400d9dd317b2626bbb0d":{
         "scriptId":"u65"},
-      "4f0eeee0a23b47e2aa773550698122aa":{
+      "870501b4f6134f73a637925d66fdb0e2":{
         "scriptId":"u66"},
-      "2da5b915b36048889cf675b2af178034":{
+      "bce01167942740019607018f9eb19491":{
         "scriptId":"u67"},
-      "d3682f82358540a1a10dcf407e952c71":{
+      "ebe42f958c3d4fb38496f21ddc2f3c0a":{
         "scriptId":"u68"},
-      "9281a91613344715810be8f5a83c441b":{
+      "a4324f8c878743c8b8555c41adf6793d":{
         "scriptId":"u69"},
+      "db3d9cee97c747ba8521af9b2cc0e0ec":{
+        "scriptId":"u70"},
+      "b091ec9335f049f0a8be4ec82d3ca2ec":{
+        "scriptId":"u71"},
+      "c0586ca2bd784cf2b58489b4a7353d4d":{
+        "scriptId":"u72"},
+      "c23aac14db4d4a529f24af0a1025ede7":{
+        "scriptId":"u73"},
+      "d48c2b42fec34ca68fe0cf688d2554b0":{
+        "scriptId":"u74"},
+      "0d68a742589d415a9e049b503e0a4b0f":{
+        "scriptId":"u75"},
+      "4acfbe03aff74eb498e6b381fae17210":{
+        "scriptId":"u76"},
+      "84c6cc5f56f24bca99a758e16de8d13c":{
+        "scriptId":"u77"},
+      "4f0eeee0a23b47e2aa773550698122aa":{
+        "scriptId":"u78"},
+      "2da5b915b36048889cf675b2af178034":{
+        "scriptId":"u79"},
+      "d3682f82358540a1a10dcf407e952c71":{
+        "scriptId":"u80"},
+      "9281a91613344715810be8f5a83c441b":{
+        "scriptId":"u81"},
       "04aced1416f048b89f4103ad0c2f6b7c":{
-        "scriptId":"u70"}},
+        "scriptId":"u82"},
+      "631d59ab359c4e19b61bb8ab5135050a":{
+        "scriptId":"u83"},
+      "3cd1079564e7479ba3ca7ad521e4fb9e":{
+        "scriptId":"u84"},
+      "6df11eb3a2634e2c9669d47b228cc051":{
+        "scriptId":"u85"},
+      "a521582e6661409ebcddb118c2428e69":{
+        "scriptId":"u86"},
+      "8df1403e74084452b7acc232b7a9506e":{
+        "scriptId":"u87"},
+      "562c23991329421a80929a49d89d9b9a":{
+        "scriptId":"u88"},
+      "7bc904cb9b374cd6b4e8e5dad6f6becb":{
+        "scriptId":"u89"},
+      "933bd17691c6433cafcc046cdec0e9e8":{
+        "scriptId":"u90"},
+      "3d3e2c302dfa4fc3be51d77f42f71c55":{
+        "scriptId":"u91"},
+      "2aed34745a4d4f08b84473b0cb39c147":{
+        "scriptId":"u92"}},
     "27f72d182b22471484fb4bed795a4da9":{
-      "scriptId":"u71"}}});
+      "scriptId":"u93"}}});
