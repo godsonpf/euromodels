@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"交流合作.html",
-  "generationDate":new Date(1525918718226.74),
+  "generationDate":new Date(1525920474232.41),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
