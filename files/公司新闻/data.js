@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"公司新闻.html",
-  "generationDate":new Date(1525920472880.33),
+  "generationDate":new Date(1525920946111.39),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -213,14 +213,6 @@
               "height":10}},
           "adaptiveStyles":{
 },
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[]}]}},
-          "tabbable":true,
           "scrollbars":"none",
           "fitToContent":true,
           "propagate":false,
@@ -555,6 +547,21 @@
                       "height":10}},
                   "adaptiveStyles":{
 },
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 新窗口/标签页 打开 第二次东欧女模大集结盛大举行",
+                              "target":{
+                                "targetType":"page",
+                                "url":"第二次东欧女模大集结盛大举行.html",
+                                "includeVariables":true},
+                              "linkType":"new"}]}]}},
+                  "tabbable":true,
                   "scrollbars":"none",
                   "fitToContent":true,
                   "propagate":false,
@@ -720,6 +727,21 @@
                       "height":10}},
                   "adaptiveStyles":{
 },
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 新窗口/标签页 打开 第二次东欧女模大集结盛大举行",
+                              "target":{
+                                "targetType":"page",
+                                "url":"第二次东欧女模大集结盛大举行.html",
+                                "includeVariables":true},
+                              "linkType":"new"}]}]}},
+                  "tabbable":true,
                   "scrollbars":"none",
                   "fitToContent":true,
                   "propagate":false,

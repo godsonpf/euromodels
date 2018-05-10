@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"模特动态.html",
-  "generationDate":new Date(1525920473677.38),
+  "generationDate":new Date(1525920946574.42),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -582,6 +582,21 @@
                       "height":10}},
                   "adaptiveStyles":{
 },
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 新窗口/标签页 打开 第三批东欧模特抵京",
+                              "target":{
+                                "targetType":"page",
+                                "url":"第三批东欧模特抵京.html",
+                                "includeVariables":true},
+                              "linkType":"new"}]}]}},
+                  "tabbable":true,
                   "scrollbars":"none",
                   "fitToContent":true,
                   "propagate":false,
